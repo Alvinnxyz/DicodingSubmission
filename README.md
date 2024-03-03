@@ -20,8 +20,9 @@ The visualization results can be seen at  [Streamlit](https://submissiondicoding
    pip install -r requirements.txt
    ```
 
-4. Run the streamlit
+4. Go to streamlit dashboard file and Run it
 
    ```
+   cd Streamlit
    streamlit run dashboard.py
    ```
