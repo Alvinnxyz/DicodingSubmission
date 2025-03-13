@@ -1,6 +1,6 @@
 # Submission Data Analyst course DICODING
 This repository is intended to complete the Learn Data Analysis with Python course
-The visualization results can be seen at  [Streamlit](https://submissiondicodingalv.streamlit.app/)</br>
+The visualization results can be seen at  [Streamlit](https://ecommercedatadicodingalv.streamlit.app/)</br>
 ## Installation and usage
 
 1. Clone this repository to local
