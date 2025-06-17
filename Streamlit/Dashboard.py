@@ -13,8 +13,8 @@ order_reviews = pd.read_csv("./Data/order_reviews_dataset.csv")
 st.title('E-Commerce Dashboard :sparkles:')
  
 with st.sidebar:
-    # Menambahkan logo perusahaan
-    st.image("https://media.licdn.com/dms/image/D5603AQFjPhmlcNvdNg/profile-displayphoto-shrink_800_800/0/1701944152755?e=2147483647&v=beta&t=s5LvU64NwwiRKYHkEj6sy7uWkdnAbbdjLZcZHMu6Obc")
+    # Menambahkan logo 
+    st.image("https://media.licdn.com/dms/image/v2/D5603AQGeNtSvyCTo2A/profile-displayphoto-shrink_800_800/B56ZZOg3lIGQAg-/0/1745073962120?e=1755734400&v=beta&t=3CRiiJXyhb5RFqun_7zjeikziE1sg-B-zZnxrL9vZGI")
     st.write("Alvin Fajar Permana")
     st.write("github: https://github.com/Alvinnxyz")
     st.write("LinkedIn: https://linkedin.com/in/alvinfp/")
